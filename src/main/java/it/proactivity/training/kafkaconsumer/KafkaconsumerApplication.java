@@ -1,4 +1,4 @@
-package itproactivity.training.kafkaconsumer;
+package it.proactivity.training.kafkaconsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

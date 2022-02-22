@@ -1,4 +1,4 @@
-package itproactivity.training.kafkaconsumer.model;
+package it.proactivity.training.kafkaconsumer.model;
 
 import java.util.Objects;
 

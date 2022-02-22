@@ -1,6 +1,6 @@
-package itproactivity.training.kafkaconsumer.configuration;
+package it.proactivity.training.kafkaconsumer.configuration;
 
-import itproactivity.training.kafkaconsumer.model.User;
+import it.proactivity.training.kafkaconsumer.model.User;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.context.annotation.Bean;

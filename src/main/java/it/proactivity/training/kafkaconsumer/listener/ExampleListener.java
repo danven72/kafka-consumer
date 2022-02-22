@@ -1,6 +1,6 @@
-package itproactivity.training.kafkaconsumer.listener;
+package it.proactivity.training.kafkaconsumer.listener;
 
-import itproactivity.training.kafkaconsumer.model.User;
+import it.proactivity.training.kafkaconsumer.model.User;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 
